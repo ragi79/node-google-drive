@@ -18,7 +18,9 @@
   , "main": "lib/main.js"
   , "dependencies": {}
   , "devDependencies": {
-     "vows": ">= 0.6.2"
+     "vows": ">= 0.6.2",
+     "everyauth": ">= 0.2.32"
+     "express": ">= 2.5.9"
   }
   , "scripts": { "test": "vows test/*" }
 }

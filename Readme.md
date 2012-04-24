@@ -11,9 +11,4 @@ npm install google-drive
 
 ## Example usage
 
-```bash
-var gdrive = require('google-drive');
-
-// TODO: Work in progress
-
-```
+Coming soon.
